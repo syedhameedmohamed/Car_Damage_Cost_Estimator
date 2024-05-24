@@ -1,6 +1,6 @@
 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu113/torch1.10/index.html
 torch
-torchvision==0.11.1
+torchvision
 streamlit==1.16.0
 pandas>=1.5.3
 numpy>=1.23.5
