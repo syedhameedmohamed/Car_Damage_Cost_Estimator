@@ -1,7 +1,8 @@
-torchvision>=0.15.1
+-f https://data.pyg.org/whl/torch-1.13.0+cpu.html
+torchvision
 streamlit==1.16.0
 pandas>=1.5.3
-numpy>=1.23.5
+numpy
 Pillow>=9.3.0
 shapely>=1.8.5.post1
 opencv-python-headless>=4.6.0.66
