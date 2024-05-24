@@ -1,3 +1,6 @@
+-f https://data.pyg.org/whl/torch-1.13.0+cpu.html
+torch==1.13.0+cpu
+torchvision>=0.15.1
 streamlit==1.16.0
 pandas>=1.5.3
 numpy>=1.23.5
@@ -8,4 +11,3 @@ matplotlib>=3.6.2
 boto3>=1.26.24
 tqdm>=4.64.1
 
--f https://data.pyg.org/whl/torch-1.13.0+cpu.html
